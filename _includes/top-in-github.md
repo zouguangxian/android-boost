@@ -1,284 +1,380 @@
 * [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
 
-    stared:`3247`, forks:`1360`, issues:`79`
+    license:`APACHE`
+
+    stared:`3248`, forks:`1360`, issues:`79`, pushed:`2013-03-29T07:22:56Z`
 
     Library for implementing the action bar design pattern using the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
 
 * [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
 
-    stared:`2194`, forks:`939`, issues:`72`
+    license:`APACHE`
+
+    stared:`2196`, forks:`941`, issues:`72`, pushed:`2013-04-04T21:05:44Z`
 
     An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!
 
 * [android](https://github.com/github/android)
 
-    stared:`2040`, forks:`696`, issues:`101`
+    license:`UNKNOWN`
+
+    stared:`2041`, forks:`696`, issues:`101`, pushed:`2013-02-04T18:49:08Z`
 
     GitHub Android App
 
 * [Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 
-    stared:`1787`, forks:`689`, issues:`48`
+    license:`UNKNOWN`
+
+    stared:`1787`, forks:`691`, issues:`48`, pushed:`2013-03-02T07:50:24Z`
 
 * [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)
 
-    stared:`1533`, forks:`553`, issues:`15`
+    license:`APACHE`
+
+    stared:`1537`, forks:`554`, issues:`15`, pushed:`2013-02-02T12:32:14Z`
 
     Implementation of the Pull-to-Refresh UI Pattern for Android
 
 * [android-async-http](https://github.com/loopj/android-async-http)
 
-    stared:`1246`, forks:`552`, issues:`104`
+    license:`UNKNOWN`
+
+    stared:`1247`, forks:`553`, issues:`105`, pushed:`2013-04-05T23:05:40Z`
 
     An Asynchronous HTTP Library for Android
 
 * [SyntaxHighlighter](https://github.com/alexgorbatchev/SyntaxHighlighter)
 
-    stared:`1900`, forks:`473`, issues:`138`
+    license:`UNKNOWN`
+
+    stared:`1902`, forks:`473`, issues:`138`, pushed:`2013-03-07T18:29:41Z`
 
     SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 
 * [GreenDroid](https://github.com/cyrilmottier/GreenDroid)
 
-    stared:`1596`, forks:`415`, issues:`55`
+    license:`APACHE`
+
+    stared:`1596`, forks:`415`, issues:`55`, pushed:`2013-01-24T17:01:18Z`
 
     GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.
 
 * [android-actionbar](https://github.com/johannilsson/android-actionbar)
 
-    stared:`909`, forks:`306`, issues:`27`
+    license:`UNKNOWN`
+
+    stared:`909`, forks:`306`, issues:`27`, pushed:`2013-01-14T19:05:24Z`
 
     Android Action Bar Implementation
 
 * [android-viewflow](https://github.com/pakerfeldt/android-viewflow)
 
-    stared:`753`, forks:`235`, issues:`33`
+    license:`UNKNOWN`
+
+    stared:`753`, forks:`235`, issues:`33`, pushed:`2013-02-09T07:20:39Z`
 
     A horizontal view scroller library for Android
 
 * [android-mapviewballoons](https://github.com/jgilfelt/android-mapviewballoons)
 
-    stared:`609`, forks:`233`, issues:`17`
+    license:`APACHE`
+
+    stared:`609`, forks:`233`, issues:`17`, pushed:`2012-12-03T21:01:04Z`
 
     Simple information balloon annotation for Android MapView
 
 * [android-mapviewballoons](https://github.com/jgilfelt/android-mapviewballoons)
 
-    stared:`609`, forks:`233`, issues:`17`
+    license:`APACHE`
+
+    stared:`609`, forks:`233`, issues:`17`, pushed:`2012-12-03T21:01:04Z`
 
     Simple information balloon annotation for Android MapView
 
 * [PushSharp](https://github.com/Redth/PushSharp)
 
-    stared:`665`, forks:`202`, issues:`4`
+    license:`APACHE`
+
+    stared:`668`, forks:`203`, issues:`5`, pushed:`2013-04-10T16:50:00Z`
 
     A Library for Sending Server Side Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM), Windows Phone, and Blackberry devices!
 
 * [HockeyKit](https://github.com/TheRealKerni/HockeyKit)
 
-    stared:`1288`, forks:`197`, issues:`34`
+    license:`MIT`
+
+    stared:`1288`, forks:`197`, issues:`34`, pushed:`2013-04-09T17:19:21Z`
 
     A software update kit for iOS and Android. Provided as is. For more functionality and maintained work, check out @hockeyapp
 
 * [androidannotations](https://github.com/excilys/androidannotations)
 
-    stared:`1035`, forks:`197`, issues:`85`
+    license:`APACHE`
+
+    stared:`1035`, forks:`197`, issues:`85`, pushed:`2013-03-05T14:27:53Z`
 
     Fast Android Development. Easy maintainance.
 
 * [android-flip](https://github.com/openaphid/android-flip)
 
-    stared:`292`, forks:`154`, issues:`9`
+    license:`UNKNOWN`
+
+    stared:`292`, forks:`154`, issues:`9`, pushed:`2013-02-12T10:26:56Z`
 
     A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 
 * [drag-sort-listview](https://github.com/bauerca/drag-sort-listview)
 
-    stared:`549`, forks:`149`, issues:`16`
+    license:`UNKNOWN`
+
+    stared:`549`, forks:`149`, issues:`16`, pushed:`2013-04-03T00:29:09Z`
 
     Android ListView with drag and drop reordering.
 
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
-    stared:`503`, forks:`143`, issues:`7`
+    license:`APACHE`
+
+    stared:`504`, forks:`143`, issues:`7`, pushed:`2012-11-26T16:13:38Z`
 
     Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!
 
 * [androidquery](https://github.com/androidquery/androidquery)
 
-    stared:`612`, forks:`142`, issues:`17`
+    license:`UNKNOWN`
+
+    stared:`613`, forks:`142`, issues:`17`, pushed:`2013-04-09T10:29:22Z`
 
     AndroidQuery
 
 * [droid-fu](https://github.com/mttkay/droid-fu)
 
-    stared:`750`, forks:`140`, issues:`42`
+    license:`APACHE`
+
+    stared:`750`, forks:`140`, issues:`42`, pushed:`2013-01-31T07:40:06Z`
 
     A utility library for your daily Android needs
 
 * [android_page_curl](https://github.com/harism/android_page_curl)
 
-    stared:`334`, forks:`118`, issues:`43`
+    license:`APACHE`
+
+    stared:`334`, forks:`118`, issues:`43`, pushed:`2013-04-03T16:13:54Z`
 
     An example application for creating page curl/flip effect on Android using OpenGL ES.
 
 * [ignition](https://github.com/mttkay/ignition)
 
-    stared:`736`, forks:`118`, issues:`26`
+    license:`UNKNOWN`
+
+    stared:`736`, forks:`118`, issues:`26`, pushed:`2013-01-31T16:08:04Z`
 
     Kick-starts Android application development.
 
 * [AndroidBillingLibrary](https://github.com/robotmedia/AndroidBillingLibrary)
 
-    stared:`391`, forks:`101`, issues:`33`
+    license:`UNKNOWN`
+
+    stared:`391`, forks:`101`, issues:`33`, pushed:`2013-04-02T17:32:41Z`
 
     Android Market In-app Billing Library
 
 * [Crouton](https://github.com/keyboardsurfer/Crouton)
 
-    stared:`513`, forks:`93`, issues:`12`
+    license:`APACHE`
+
+    stared:`513`, forks:`93`, issues:`12`, pushed:`2013-04-08T10:35:16Z`
 
     Context sensitive notifications for Android  
 
 * [acra](https://github.com/ACRA/acra)
 
-    stared:`457`, forks:`86`, issues:`32`
+    license:`APACHE`
+
+    stared:`458`, forks:`86`, issues:`32`, pushed:`2013-04-09T20:39:41Z`
 
     Application Crash Reports for Android
 
 * [roboguice](https://github.com/roboguice/roboguice)
 
-    stared:`401`, forks:`82`, issues:`13`
+    license:`UNKNOWN`
+
+    stared:`401`, forks:`82`, issues:`13`, pushed:`2013-02-06T00:13:16Z`
 
     Google Guice on Android, version 2.0
 
 * [greenDAO](https://github.com/greenrobot/greenDAO)
 
-    stared:`340`, forks:`79`, issues:`56`
+    license:`UNKNOWN`
+
+    stared:`340`, forks:`79`, issues:`56`, pushed:`2013-03-02T17:23:55Z`
 
     greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 
 * [asmack](https://github.com/Flowdalic/asmack)
 
-    stared:`171`, forks:`78`, issues:`8`
+    license:`APACHE`
+
+    stared:`172`, forks:`78`, issues:`8`, pushed:`2013-03-22T16:53:23Z`
 
     A build environment for the XMPP library Smack on android
 
 * [android-swipelistview](https://github.com/47deg/android-swipelistview)
 
-    stared:`333`, forks:`75`, issues:`4`
+    license:`APACHE`
+
+    stared:`333`, forks:`75`, issues:`4`, pushed:`2013-04-11T11:52:13Z`
 
     An Android List View implementation with support for drawable cells and many other swipe related features
 
 * [Android-Pdf-Viewer-Library](https://github.com/jblough/Android-Pdf-Viewer-Library)
 
-    stared:`131`, forks:`70`, issues:`13`
+    license:`UNKNOWN`
+
+    stared:`131`, forks:`70`, issues:`13`, pushed:`2011-09-11T19:53:52Z`
 
     Pdf Viewer library for Android
 
 * [Polaris](https://github.com/cyrilmottier/Polaris)
 
-    stared:`348`, forks:`68`, issues:`9`
+    license:`APACHE`
+
+    stared:`348`, forks:`68`, issues:`9`, pushed:`2013-03-07T14:13:43Z`
 
 * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu)
 
-    stared:`204`, forks:`60`, issues:`7`
+    license:`UNKNOWN`
+
+    stared:`204`, forks:`60`, issues:`7`, pushed:`2013-02-13T23:16:06Z`
 
     Android Satellite Menu
 
 * [DataDroid](https://github.com/foxykeep/DataDroid)
 
-    stared:`217`, forks:`56`, issues:`0`
+    license:`UNKNOWN`
+
+    stared:`218`, forks:`56`, issues:`0`, pushed:`2013-04-07T20:26:08Z`
 
     An Android Library for data management
 
 * [android-adt-templates](https://github.com/jgilfelt/android-adt-templates)
 
-    stared:`370`, forks:`54`, issues:`1`
+    license:`APACHE`
+
+    stared:`370`, forks:`54`, issues:`1`, pushed:`2013-03-11T11:23:42Z`
 
     A small collection of ADT templates to help quickly scaffold common Activity and UI patterns.
 
 * [robospice](https://github.com/octo-online/robospice)
 
-    stared:`376`, forks:`49`, issues:`13`
+    license:`APACHE`
+
+    stared:`377`, forks:`49`, issues:`13`, pushed:`2013-03-30T07:59:56Z`
 
     Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
 
 * [EventBus](https://github.com/greenrobot/EventBus)
 
-    stared:`364`, forks:`47`, issues:`13`
+    license:`UNKNOWN`
+
+    stared:`364`, forks:`47`, issues:`13`, pushed:`2013-03-02T17:05:54Z`
 
     Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 
 * [android-rss](https://github.com/ahorn/android-rss)
 
-    stared:`154`, forks:`46`, issues:`2`
+    license:`UNKNOWN`
+
+    stared:`154`, forks:`46`, issues:`2`, pushed:`2013-01-17T14:04:18Z`
 
     Lightweight Android library to read parts of RSS 2.0 feeds.
 
 * [encog-java-core](https://github.com/encog/encog-java-core)
 
-    stared:`153`, forks:`40`, issues:`36`
+    license:`APACHE`
+
+    stared:`153`, forks:`40`, issues:`36`, pushed:`2013-04-12T00:46:52Z`
 
     
 
 * [RESTProvider](https://github.com/novoda/RESTProvider)
 
-    stared:`257`, forks:`36`, issues:`3`
+    license:`APACHE`
+
+    stared:`257`, forks:`36`, issues:`3`, pushed:`2011-07-25T15:14:14Z`
 
     Automatically parse RESTful API responses into a Provider in Android
 
 * [RESTProvider](https://github.com/novoda/RESTProvider)
 
-    stared:`257`, forks:`36`, issues:`3`
+    license:`APACHE`
+
+    stared:`257`, forks:`36`, issues:`3`, pushed:`2011-07-25T15:14:14Z`
 
     Automatically parse RESTful API responses into a Provider in Android
 
 * [torch](https://github.com/andresy/torch)
 
-    stared:`104`, forks:`36`, issues:`27`
+    license:`UNKNOWN`
+
+    stared:`104`, forks:`36`, issues:`27`, pushed:`2013-04-08T23:40:34Z`
 
     
 
 * [Android-Image-Cache](https://github.com/mitmel/Android-Image-Cache)
 
-    stared:`81`, forks:`33`, issues:`3`
+    license:`UNKNOWN`
+
+    stared:`81`, forks:`34`, issues:`3`, pushed:`2013-02-13T21:45:40Z`
 
     An image download-and-cacher that also knows how to efficiently generate and retrieve thumbnails of various sizes. 
 
 * [tape](https://github.com/square/tape)
 
-    stared:`332`, forks:`24`, issues:`8`
+    license:`APACHE`
+
+    stared:`332`, forks:`24`, issues:`8`, pushed:`2013-01-08T17:06:47Z`
 
     A lightning fast, transactional, file-based FIFO for Android and Java.
 
 * [Android-AppMsg](https://github.com/johnkil/Android-AppMsg)
 
-    stared:`130`, forks:`21`, issues:`4`
+    license:`APACHE`
+
+    stared:`130`, forks:`21`, issues:`4`, pushed:`2013-03-19T08:55:43Z`
 
     In-layout notifications. Based on Toast notifications and article by Cyril Mottier (http://android.cyrilmottier.com/?p=773).
 
 * [AndroidSideMenu](https://github.com/dmitry-zaitsev/AndroidSideMenu)
 
-    stared:`43`, forks:`19`, issues:`1`
+    license:`UNKNOWN`
+
+    stared:`43`, forks:`20`, issues:`1`, pushed:`2013-04-08T06:18:28Z`
 
     Side menu for android applications
 
 * [knappsack](https://github.com/sparcedge/knappsack)
 
-    stared:`22`, forks:`13`, issues:`7`
+    license:`UNKNOWN`
+
+    stared:`22`, forks:`13`, issues:`7`, pushed:`2013-02-25T15:31:21Z`
 
     Knappsack
 
 * [alljoyn_core](https://github.com/alljoyn/alljoyn_core)
 
-    stared:`34`, forks:`13`, issues:`0`
+    license:`UNKNOWN`
+
+    stared:`34`, forks:`13`, issues:`0`, pushed:`2013-04-11T21:02:44Z`
 
     AllJoyn client library and daemon
 
 * [OnionKit](https://github.com/guardianproject/OnionKit)
 
-    stared:`30`, forks:`7`, issues:`0`
+    license:`BSD`
+
+    stared:`30`, forks:`7`, issues:`0`, pushed:`2013-04-04T03:06:34Z`
 
     Android Library Project for Multi-Layer Network Connections (Better TLS/SSL and Tor)
 
