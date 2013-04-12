@@ -1,2 +1,10 @@
+## Android Resources
 
-[Android-Boost Recommended Projects List](http://zouguangxian.github.io/android-boost/)
+* [The Ultimate Android Library](http://www.theultimateandroidlibrary.com/)
+
+* [Android Views](http://www.androidviews.net/)
+
+* [Android UI Patterns](http://www.androiduipatterns.com/)
+
+* [Recommended Open Source Projects for Android Application Development](http://zouguangxian.github.io/android-boost/)
+
