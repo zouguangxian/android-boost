@@ -6,9 +6,9 @@
 
 * [Android UI Patterns](http://www.androiduipatterns.com/)
 
-## Recommended Open Source Projects for Android Application Development
+## Recommended Open Source Projects for Android Application Development 
 
-    [android-boost](http://zouguangxian.github.io/android-boost/)
+[android-boost-pages](http://zouguangxian.github.io/android-boost/)
 
 
 * [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
