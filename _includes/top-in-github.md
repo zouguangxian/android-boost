@@ -1,3 +1,5 @@
+*please leave me a comment or send me a mail if you want to recommend a project.* 
+
 * [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
 
     license:`UNKNOWN`
